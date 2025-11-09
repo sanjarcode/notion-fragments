@@ -13,4 +13,4 @@ Extensions store: (being reviewed by the Chrome store, use the workaround below)
 - Enable Developer mode
 - Click "Load unpacked" and select the extracted folder
 - Go to your Notion and it should be working. 
-- Test: Try to clip https://github.com/donnemartin/system-design-primer, search for 'Start here' and click the link. it should scroll internally.
+- Test: Clip https://github.com/donnemartin/system-design-primer using the Notion Clipper Extension, go to the clipped page, search for 'Start here', and click the link. it should scroll internally.
