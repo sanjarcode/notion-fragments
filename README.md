@@ -4,7 +4,7 @@ GitHub: https://github.com/sanjarcode/notion-fragments
 
 Demo (youtube): https://www.youtube.com/watch?v=IkGZR7V-XZg
 
-Extensions store: (use workaround, below)
+Extensions store: (being reviewed by the Chrome store, use the workaround below)
 
 # Workaround
 - Download the code
