@@ -2,22 +2,12 @@
   "manifest_version": 3,
   "name": "Notion Fragments",
   "version": "1.0",
-  "permissions": ["scripting", "activeTab", "storage"],
-  "host_permissions": ["<all_urls>"],
-  "background": {
-    "service_worker": "bg.js"
-  },
+  "description": "Intercepts fragment links and scrolls to headings by kebab-case.",
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["cs.js"],
+      "matches": ["https://www.notion.so/*"],
+      "js": ["page.js"],
       "run_at": "document_start"
-    }
-  ],
-  "web_accessible_resources": [
-    {
-      "resources": ["page.js"],
-      "matches": ["<all_urls>"]
     }
   ]
 }
