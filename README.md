@@ -9,7 +9,7 @@ Extensions store: (being reviewed by the Chrome store, use the workaround below)
 # Workaround
 - Download the code
 - Extract the zip file
-- Go to chrome://extensions
+- Go to [chrome://extensions](chrome://extensions)
 - Enable Developer mode
 - Click "Load unpacked" and select the extracted folder
 - Go to your Notion and it should be working. 
