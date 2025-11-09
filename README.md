@@ -1,10 +1,7 @@
-# GodMode Chrome Extension (MV3)
+# Notion Fragments extension
 
-Files:
-- manifest.json
-- bg.js
-- cs.js (content script)
-- page.js (injected page-context script)
+GitHub: https://github.com/sanjarcode/notion-fragments
 
-Install: load unpacked extension from this folder in chrome://extensions
-Then prune permissions before publishing.
+Demo (youtube): https://www.youtube.com/watch?v=IkGZR7V-XZg
+
+Extensions store: https://www.youtube.com/watch?v=IkGZR7V-XZg
