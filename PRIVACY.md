@@ -1,0 +1,3 @@
+- The extension does not collect any data, personal or system.
+- There's no remote network calls in the code
+- Its purely local, UI level code.
